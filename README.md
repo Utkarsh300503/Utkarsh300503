@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utkarsh300503
 - 👀 I’m interested in Web Tech and Data Structure
-- 🌱 I’m currently learning DSA and SpringBoot
+- 🌱 I’m currently working on my CRMS(Crime Record Management System) project 
 - 💞️ I’m looking to collaborate on Web based Projects
 - 📫 You can reach me through utkarshtiwari3005@gmail.com
 - 😄 Pronouns: Utk...
